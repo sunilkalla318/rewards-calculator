@@ -1,0 +1,54 @@
+[
+  {
+    "amount": 120,
+    "customerId": "john",
+    "transactionDate": "2022-03-02T04:36:12.636Z",
+    "transactionId": "0001",
+    "transactionName": "starbucks"
+  },
+{
+    "amount": 130,
+    "customerId": "sam",
+    "transactionDate": "2022-02-02T04:36:12.636Z",
+    "transactionId": "0002",
+    "transactionName": "target"
+  },
+{
+    "amount": 130,
+    "customerId": "sam",
+    "transactionDate": "2022-02-02T04:36:12.636Z",
+    "transactionId": "0003",
+    "transactionName": "walmart"
+  },
+{
+    "amount": 130,
+    "customerId": "sam",
+    "transactionDate": "2022-02-02T04:36:12.636Z",
+    "transactionId": "0004",
+    "transactionName": "netflix"
+  },{
+    "amount": 140,
+    "customerId": "don",
+    "transactionDate": "2022-01-02T04:36:12.636Z",
+    "transactionId": "0005",
+    "transactionName": "costco"
+  },{
+    "amount": 80,
+    "customerId": "don",
+    "transactionDate": "2022-02-02T04:36:12.636Z",
+    "transactionId": "0006",
+    "transactionName": "somewhere"
+  },{
+    "amount": 80,
+    "customerId": "don",
+    "transactionDate": "2022-12-02T04:36:12.636Z",
+    "transactionId": "0007",
+    "transactionName": "here"
+  },{
+    "amount": 80,
+    "customerId": "don",
+    "transactionDate": "2022-10-02T04:36:12.636Z",
+    "transactionId": "0008",
+    "transactionName": "there"
+  }
+]
