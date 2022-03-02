@@ -26,8 +26,6 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 @SpringBootTest
 @AutoConfigureMockMvc
 @ExtendWith(SpringExtension.class)
-//@RunWith(SpringRunner.class)
-//@WebMvcTest(RewardsController.class)
 class RewardsApplicationTests {
 
     @Autowired
